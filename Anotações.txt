@@ -1,0 +1,34 @@
+
+NÃO FOI POSSIVEL PROGRAMAR/TESTAR
+
+BAIXAR RELATORIOS GERADOS:
+
+    tab 7 vezes
+    enter
+
+    Loop: (10 vezes)
+        alt+tab
+        sleep
+        alt+tab ???
+        tab
+        enter
+        tab 3 vezes
+        enter
+
+IMPRIMIR RELATORIOS BAIXADOS:
+
+    win + r
+    digitar 'downloads'
+    enter
+    seta pra cima
+    seta pra baixo
+
+    Loop:  (10 vezes)
+        enter
+        seta para cima
+        enter
+        crtl+p
+        enter
+        ctrl+w
+        alt+seta para esquerda
+        seta pra baixo
